@@ -1,4 +1,3 @@
-=# 💫 About Me:
 Hi, I'm Sharan 👋<br>🎓 Computer Science student and aspiring Software Engineer.<br><br>💻 Interested in Java, Backend Development, and AI/ML.<br>🚀 Currently exploring DevOps, Docker, Linux, and Cloud technologies.<br>🧠 Passionate about problem-solving, learning new technologies, and building practical solutions.<br><br>📚 Always learning. Always improving. Always building.<br><br>⚡Its the storm that tests the strongest sailor.
 
 
